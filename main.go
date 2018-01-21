@@ -8,5 +8,6 @@ import (
 
 func main() {
 	fmt.Println("project B")
-	_ = models.Beez{}
+	_ = models.Beez{Name: "foo"}
+
 }

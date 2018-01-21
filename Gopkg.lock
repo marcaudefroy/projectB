@@ -4,12 +4,12 @@
 [[projects]]
   name = "github.com/marcaudefroy/projectC"
   packages = ["models"]
-  revision = "f577b6ab081e4de97b4e241ee7d4efa7036717e7"
-  version = "v1.0"
+  revision = "b941a7d22c0049f17857c00f8a042346d83283f7"
+  version = "v2.1"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "c419b4f94e34c226633d61e75f283e4e702a7714151cb90c631b07435a0fd8f3"
+  inputs-digest = "785e5c60da4992374d3a4df306e44819544a0720051a26f4a94e0d52c5852a83"
   solver-name = "gps-cdcl"
   solver-version = 1
