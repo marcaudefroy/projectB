@@ -2,8 +2,11 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/marcaudefroy/projectC/models"
 )
 
 func main() {
-	fmt.Println("project A")
+	fmt.Println("project B")
+	_ = models.Beez{}
 }
